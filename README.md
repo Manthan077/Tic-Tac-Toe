@@ -46,24 +46,26 @@ Players can compete against a friend locally or challenge a built-in AI opponent
 
 ---
 
-Gameplay Preview
+## Gameplay Preview
+
 Screen	Description
-🎮 Mode Selection	Choose between 1 Player (AI) or 2 Player (local) mode
-❌⭕ Game Board	Interactive grid with player turns clearly indicated
-🏆 Game End	Displays winner or tie message with replay option
-In-Game Feedback
+- 🎮 Mode Selection	Choose between 1 Player (AI) or 2 Player (local) mode
+- ❌⭕ Game Board	Interactive grid with player turns clearly indicated
+- 🏆 Game End	Displays winner or tie message with replay option
+
+## In-Game Feedback
 
 Players receive dynamic messages depending on the outcome:
 
-🏆 "You crushed the AI! Well played!"
-🤖 "The AI outsmarted you this time... Try again!"
-🤝 "It's a draw — evenly matched minds!"
+- 🏆 "You crushed the AI! Well played!"
+- 🤖 "The AI outsmarted you this time... Try again!"
+- 🤝 "It's a draw — evenly matched minds!"
 
-Future Enhancements
+## Future Enhancements
 
 Potential improvements to enhance the game experience:
 
-🌐 Online multiplayer mode
-🧠 Advanced AI with Minimax algorithm
-📊 Persistent score tracking across sessions
-✨ Additional animations and sound effects
+- 🌐 Online multiplayer mode
+- 🧠 Advanced AI with Minimax algorithm
+- 📊 Persistent score tracking across sessions
+- ✨ Additional animations and sound effects
